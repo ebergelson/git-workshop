@@ -1,2 +1,2 @@
-a new readme to try fo fix stuff
-*read* *ME*
+trying to make a conflict!
+this readme should mess stuff up!
